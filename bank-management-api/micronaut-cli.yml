@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.test
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jpa, hibernate-jpa, http-client-test, java, java-application, jdbc-hikari, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, mysql, netty-server, properties, readme, security, security-annotations, serialization-jackson, shade, static-resources, test-resources]
