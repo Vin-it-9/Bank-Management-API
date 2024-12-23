@@ -4,6 +4,7 @@ package main.account;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import io.micronaut.serde.annotation.Serdeable;
 import jakarta.persistence.*;
+import main.transaction.Transaction;
 import main.user.User;
 
 import java.util.Set;
