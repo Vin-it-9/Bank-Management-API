@@ -27,7 +27,7 @@
 # includes memory/GC tuning.
 # You can configure the behavior using the following environment properties:
 # - JAVA_OPTS: JVM options passed to the `java` command (example: "-verbose:class")
-# - JAVA_OPTS_APPEND: User.User specified Java options to be appended to generated options
+# - JAVA_OPTS_APPEND: Users.Users specified Java options to be appended to generated options
 #   in JAVA_OPTS (example: "-Dsome.property=foo")
 # - JAVA_MAX_MEM_RATIO: Is used when no `-Xmx` option is given in JAVA_OPTS. This is
 #   used to calculate a default maximal heap memory based on a containers restriction.

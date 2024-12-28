@@ -1,4 +1,4 @@
-package User;
+package Users;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -50,4 +50,6 @@ public class User {
     public void setPassword(String password) {
         this.password = password;
     }
+
+
 }
